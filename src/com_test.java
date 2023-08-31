@@ -2,8 +2,8 @@
 public class com_test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		long num = 100_0000_00000L;
+		System.out.println(num);
 	}
 
 }
